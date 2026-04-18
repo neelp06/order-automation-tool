@@ -1,0 +1,7 @@
+order_id,customer,product,quantity,due_date,status
+001,Nike,Jersey,50,2026-05-01,Pending
+002,Adidas,Shorts,30,2026-05-10,Pending
+003,Under Armour,Hoodie,20,2026-04-25,Pending
+004,Nike,Socks,100,,Pending
+001,Nike,Jersey,50,2026-05-01,Pending
+005,Puma,Jacket,15,2026-05-15,Pending

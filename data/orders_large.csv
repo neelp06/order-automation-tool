@@ -1,0 +1,26 @@
+order_id,customer,product,quantity,due_date,status
+001,Nike,Jersey,50,2026-05-01,Pending
+002,Adidas,Shorts,30,2026-05-10,Pending
+003,Under Armour,Hoodie,20,2026-04-25,Pending
+004,Puma,Jacket,15,2026-05-15,Pending
+005,Nike,Socks,100,2026-05-03,Pending
+006,Adidas,Jersey,60,2026-05-08,Pending
+007,New Balance,Shorts,45,2026-05-20,Pending
+008,Reebok,Hoodie,25,2026-04-30,Pending
+009,Champion,T-Shirt,80,2026-05-12,Pending
+010,Under Armour,Jacket,10,2026-05-18,Pending
+011,Nike,Hoodie,35,,Pending
+012,Puma,Socks,200,2026-05-07,Pending
+013,Adidas,T-Shirt,55,2026-05-14,Pending
+014,Reebok,Jersey,,2026-05-09,Pending
+015,Champion,Shorts,40,2026-05-22,Pending
+016,New Balance,Hoodie,30,2026-05-11,Pending
+017,Nike,Jacket,20,2026-05-06,Pending
+003,Under Armour,Hoodie,20,2026-04-25,Pending
+019,Puma,T-Shirt,65,2026-05-16,Pending
+020,Adidas,Socks,150,2026-05-04,Pending
+021,Under Armour,Jersey,45,2026-05-19,Pending
+006,Adidas,Jersey,60,2026-05-08,Pending
+023,Champion,Jacket,18,2026-05-13,Pending
+024,Reebok,T-Shirt,70,,Pending
+025,New Balance,Socks,90,2026-05-21,Pending
